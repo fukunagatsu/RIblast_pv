@@ -19,7 +19,7 @@ using namespace std;
 
 int main(int argc, char* argv[]) {
   CalcPvalueParameters parameters;
-  parameters.SetParameters(argc - 1, argv + 1);
+  parameters.SetParameters(argc, argv);
   CalcPvalue calc_p_value;
   calc_p_value.Run(parameters);
   return(0);
