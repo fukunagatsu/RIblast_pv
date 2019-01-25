@@ -17,6 +17,6 @@ This software is released under the MIT License, see LICENSE.txt.
 2017/07/05 Version 1.0.0 was released.
 
 ## Reference
-Tsukasa Fukunaga and Michiaki Hamada. "A novel method for assessing the statistical significance of RNA-RNA interactions between two long RNAs."  Journal of Computational Biology, in press, (2018) 
+Tsukasa Fukunaga and Michiaki Hamada. "A novel method for assessing the statistical significance of RNA-RNA interactions between two long RNAs."  25, 976-978., Journal of Computational Biology (2018) 
 
 Tsukasa Fukunaga and Michiaki Hamada. "RIblast: An ultrafast RNA-RNA interaction prediction system based on a seed-and-extension approach." 33, 2658-2665., Bioinformatics (2017)
